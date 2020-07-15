@@ -1,0 +1,6 @@
+c is a middle level language used to design software to do a specific task
+design by dennis ritchi at at& t levoratory usa.
+data types presents in c
+int 
+float 
+char
